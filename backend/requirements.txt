@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+SQLAlchemy
+pg8000
+python-jose[cryptography]
+bcrypt==3.2.2
+passlib[bcrypt]
+python-multipart
+pydantic
+pydantic-settings
+alembic
+slowapi
+apscheduler
+secure
+a2wsgi
+pyotp
